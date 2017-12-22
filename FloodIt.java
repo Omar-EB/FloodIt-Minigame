@@ -4,7 +4,6 @@ import javax.swing.* ;
 public class FloodIt {
 
     public static void main(String[] args) {
-		//StudentInfo.display();
 		int v ;
 		GameController game ;
 		
